@@ -12,5 +12,13 @@ Um projeto de aprendizagem supervisonada para a classificação da variedade de 
 - #### Tecnologias
   - [Google Colab](https://colab.research.google.com/)
   - [Python](https://www.python.org/)
+  - [NumPy](https://numpy.org/)
+  - [Pandas](https://pandas.pydata.org/)
   - [scikit-learn](https://scikit-learn.org/stable/)
+  - [TensorFlow](https://www.tensorflow.org/?hl=pt-br)
+  - [Keras](https://keras.io/)
 
+- #### Resultados
+  - O modelo com Naive Bayes obteve precisão de 62.55%.
+  - O modelo de Deep Learning foi capaz de alcançar a marca de 76.45%.
+  - Assim, pôde-se visualizar como modelos de Deep Learning podem entregar o mesmo desempenho e até ultrapassar modelos tradicionais.
