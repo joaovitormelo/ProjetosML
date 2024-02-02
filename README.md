@@ -1,15 +1,15 @@
 # ProjetosML
 
-Projetos de Machine Learning para aprendizado
+Projects of Machine Learning for learning.
 
 ## Supervised Learning
 
 ### Wines Classifier
 
-- #### Introdução
-Um projeto de aprendizagem supervisonada para a classificação da variedade de um vinho de acordo com a sua descrição. Original: [Wines Classifier](https://www.toptal.com/machine-learning/nlp-tutorial-text-classification). O projeto pretende comparar duas abordagens para essa tarefa: Naive Bayes, um algoritmo clássico de Machine Learning, e Deep Learning, uma técnica que tem ganho grande notoriedade nos últimos anos.
+- #### Introduction
+A supervised learning project to built a classifier for the variety of a wine based on its description. Original: [Wines Classifier](https://www.toptal.com/machine-learning/nlp-tutorial-text-classification). The project intends to compare two approaches for that task: Naive Bayes, a classical Machine Learning algorithm, and Deep Learning, a technique that has gained great notoriety in the last years.
 
-- #### Tecnologias
+- #### Technologies
   - [Google Colab](https://colab.research.google.com/)
   - [Python](https://www.python.org/)
   - [NumPy](https://numpy.org/)
@@ -18,7 +18,11 @@ Um projeto de aprendizagem supervisonada para a classificação da variedade de 
   - [TensorFlow](https://www.tensorflow.org/?hl=pt-br)
   - [Keras](https://keras.io/)
 
-- #### Resultados
-  - O modelo com Naive Bayes obteve precisão de 62.55%.
-  - O modelo de Deep Learning foi capaz de alcançar a marca de 76.45%.
-  - Assim, pôde-se visualizar como modelos de Deep Learning podem entregar o mesmo desempenho e até ultrapassar modelos tradicionais.
+- #### Results
+  - The Naive Bayes model obtained an accuracy of 62.55%.
+  - The Deep Learning model was able to reach 76.45%.
+  - Thus, we were able to visualize how models like Deep Learning can deliver the same performance or even outcome traditional models.
+
+## Unsupervised
+
+### K-Means Clustering
