@@ -7,7 +7,7 @@ Projects of Machine Learning for learning.
 ### Wines Classifier
 
 - #### Introduction
-A supervised learning project to built a classifier for the variety of a wine based on its description. Original: [Wines Classifier](https://www.toptal.com/machine-learning/nlp-tutorial-text-classification). The project intends to compare two approaches for that task: Naive Bayes, a classical Machine Learning algorithm, and Deep Learning, a technique that has gained great notoriety in the last years.
+A supervised learning project to build a classifier for the variety of wine based on its description. Original: [Wines Classifier](https://www.toptal.com/machine-learning/nlp-tutorial-text-classification). The project intends to compare two approaches for that task: Naive Bayes, a classical Machine Learning algorithm, and Deep Learning, a technique that has gained great notoriety in the last years.
 
 - #### Technologies
   - [Google Colab](https://colab.research.google.com/)
